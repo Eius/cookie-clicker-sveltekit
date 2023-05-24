@@ -14,8 +14,10 @@ export default {
     },
     colors: {
       "transparent": "rgba(0,0,0,0.4)",
-      "blue": "#35709a",
-      "white": "#f2f2f2"
+      "blue": "#132e3e",
+      "white": "#f2f2f2",
+      "green": "#73ff73",
+      "red": "#9f5962"
     },
     fontFamily: {
       "sans": ["Merriweather"],

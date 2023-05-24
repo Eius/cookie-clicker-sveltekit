@@ -1,7 +1,10 @@
+import type { BaseUpgrade } from "$lib/data/classes/upgrades_C";
+
 export interface BaseUpgradeParams {
+    id: number;
     name: string;
-    cost: number;
-    pos: [number, number];
+    cost: bigint;
+    iconPos: [number, number];
 }
 
 export interface IncrementalUpgradeParams extends BaseUpgradeParams {
