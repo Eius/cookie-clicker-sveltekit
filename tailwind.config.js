@@ -13,8 +13,12 @@ export default {
       }
     },
     colors: {
-      "orange": "orange",
-      "gray": "gray",
+      "transparent": "rgba(0,0,0,0.4)",
+      "blue": "#35709a",
+      "white": "#f2f2f2"
+    },
+    fontFamily: {
+      "sans": ["Merriweather"],
     },
     extend: {},
   },

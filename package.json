@@ -35,6 +35,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@fontsource/merriweather": "^5.0.1",
 		"@iconify/svelte": "^3.1.3"
 	}
 }
